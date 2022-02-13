@@ -4,8 +4,7 @@ Used to create large files quickly for testing networking or other purposes.
 -----
 Installation:
 - clone this repo
-- run `gcc papermachefile.c -o papermachefile` in the repo
-
+- run `make`
 -----
 Usage:
 `./papermachefile [output-filename] [output-size-in-bytes]`
